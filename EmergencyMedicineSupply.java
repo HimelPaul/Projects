@@ -25,7 +25,7 @@ import javax.swing.table.TableRowSorter;
  * We run our GUI on the Event Dispatch Thread (EDT) using SwingUtilities.invokeLater()
  * to ensure that all UI updates are thread-safe, which is a best practice in Swing.
  */
-public class MedicineFinderApp {
+public class EmergencyMedicineSupply {
     public static void main(String[] args) {
         try {
             // I set the UI to match the user's operating system for a native, modern feel.
